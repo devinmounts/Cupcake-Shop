@@ -1,0 +1,31 @@
+body{
+  background-color: turquoise;
+}
+
+h1.flashy{
+  font-family:serif;
+  color:coral;
+}
+
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+li{
+font-weight: bolder;
+font-style: oblique;
+font-family: cursive;
+text-decoration: underline;
+
+}
+
+.best{
+font-weight: bolder;
+font-style: oblique;
+font-family: cursive;
+text-decoration: underline;
+color: #AE17B3;
+
+}
